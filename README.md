@@ -2,4 +2,4 @@
 
 INSTAGRAM CLONE DESİGN
 
-![igGift](./ig.png)
+![igGift](./igphoto.png)
